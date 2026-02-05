@@ -1,0 +1,6 @@
+﻿  mama.cpp
+C:\Users\86185\source\repos\mylatr\mylatr\mama.cpp(617,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86185\source\repos\mylatr\mylatr\mama.cpp(706,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86185\source\repos\mylatr\mylatr\mama.cpp(906,30): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+C:\Users\86185\source\repos\mylatr\mylatr\mama.cpp(942,34): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  mylatr.vcxproj -> C:\Users\86185\source\repos\mylatr\x64\Debug\mylatr.exe
