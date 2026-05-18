@@ -1,4 +1,4 @@
-北京大学2026计算概论A课程大作业-Amazon棋 留档
+北京大学2025秋计算概论A课程大作业-Amazon棋 留档
 
 Visual Studio+Easy X
 
